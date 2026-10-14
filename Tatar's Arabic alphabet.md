@@ -1,6 +1,6 @@
 English
 
-Since the adoption of Islam by Volga Bulgaria (Идел буе Болгары) in 922, the Tatar language has been written using the Arabic script.
+Since the adoption of Islam by Volga Bulgaria (İdel buye Bolğarı) in 922, the Tatar language has been written using the Arabic script.
 The Arabic script officially remained in use as the writing system for Tatars until 1927, and continued to be used non-officially after. Under a 2012 [law](https://t.me/learntat/58), it is currently permitted in the Republic of Tatarstan to submit appeals to local self-government bodies in three writing systems, including the Arabic script.
 All the information presented here is based on personal research, the analysis of texts written in the Tatar Arabic script found online, a study of the Arabic alphabet, conversations with native Arabic speakers, and inquiries made to my teacher, who studied the Arabic script at university. Those articles from Wikipedia, that I use as a links actually contains some mistakes (personally I found few), so be sceptical with them. 
 # İske imlä
@@ -52,7 +52,7 @@ $*$These letters are in the Bashkir Cyrillic alphabet, because the Bashkir langu
 
 I gave original texts by Ğayaz İsxaqıy to people who read and speak Arabic fluently, and they couldn't pronounce a single sound similar to a Tatar word. This was expected, according that in those days, the ability to read and especially write was the privilege of the highly educated and the wealthy. And actually, more likely as in Arabic and Persian languages, from childhood people was learning how to write and recognizing bases of the words to understand them in context. 
 Inscriptions in this script have been preserved on the streets of Kazan. The very first one that comes to mind is the inscription on the clock on Bauman Street:
-![[Часы_с_арабскими_росписями._Пл._Баумана._Казань._РТ._Сентябрь_2013_-_panoramio_(cropped_to_only_show_clock_face).jpg]]
+![Säğät](/images/clock.jpg) 
 "ئەيتە ايرتەنگى نامازغا بيك ماطور موڭلى آذان؛"
 Letter by letter: äytä ayrtängi namaźğa bik matur muñli aźan
 lat. Äytä irtänge namazga bik matur muñlı azan
@@ -64,7 +64,7 @@ eng. Oh, Kazan! Passionate Kazan! Melodic Kazan! Bright Kazan!
 # Yaña imlä
 From Tatar: New script.
 Yaña imlä emerged in 1920 as a result of a reform of Иске имлә in USSR. It was officially used between 1920 and 1927. Later, in the early 21st century, it would be taught in schools for a short time. The fact is, it turns out that the spelling in Яңа имлә varied slightly over time. For example, I studied it using [this](https://miras.info/projects/mirasxane/books/715-azhdaa-zur-sugysh-.html) edition Acdaha. Zur Suğış. 1921, 6th State Printing House, Kazan. However, there are other preserved written sources where the rules are slightly different, for example [this](https://miras.info/projects/mirasxane/books/585-atlarny-jahshyrtu-.html ) 1927 edition. There are also pages from 2003 textbooks.
-![[Вырезка из у тат граф.jpg]]
+![Pages from student's books](/images/book.jpg)
 Let's sort out the rules of writing. For the sake of clarity, I will refer to the version used in the 1921 edition as the "early version," and the version used in the 1927 and 2003 editions as the "new version."
 ## Writing rules
 ### Vowel graphemes
