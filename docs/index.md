@@ -54,7 +54,7 @@ $*$These letters are in the Bashkir Cyrillic alphabet, because the Bashkir langu
 
 I gave original texts by Ğayaz İsxaqıy to people who read and speak Arabic fluently, and they couldn't pronounce a single sound similar to a Tatar word. This was expected, according that in those days, the ability to read and especially write was the privilege of the highly educated and the wealthy. And actually, more likely as in Arabic and Persian languages, from childhood people was learning how to write and recognizing bases of the words to understand them in context. 
 Inscriptions in this script have been preserved on the streets of Kazan. The very first one that comes to mind is the inscription on the clock on Bauman Street:
-![Säğät](/images/clock.jpg) 
+![Säğät](/images/clock.jpg)
 "ئەيتە ايرتەنگى نامازغا بيك ماطور موڭلى آذان؛"
 Letter by letter: äytä ayrtängi namaźğa bik matur muñli aźan
 lat. Äytä irtänge namazga bik matur muñlı azan
