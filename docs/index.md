@@ -1,6 +1,6 @@
 # Tatar's Arabic alphabet
 
-[Татарча](/docs/tt/index.md/) | [English](/docs/index.md) | [Русский](/docs/tt/index.md/) 
+[Татарча](/tt/) | [English](/) | [Русский](/ru/) 
 
 Since the adoption of Islam by Volga Bulgaria (İdel buye Bolğarı) in 922, the Tatar language has been written using the Arabic script.
 The Arabic script officially remained in use as the writing system for Tatars until 1927, and continued to be used non-officially after. Under a 2012 [law](https://t.me/learntat/58), it is currently permitted in the Republic of Tatarstan to submit appeals to local self-government bodies in three writing systems, including the Arabic script.
