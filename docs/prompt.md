@@ -47,3 +47,5 @@ Key orthography rules we have established:
 - If you are unsure about a spelling, ask for clarification in Tatar Arabic script.
 
 If you cannot write in Tatar Arabic script, say so in Tatar Arabic script instead of using Latin or Cyrillic.
+
+If you want to practice Yaña imlä here is PROMPT for u:![PROMPT](/prompt/)
