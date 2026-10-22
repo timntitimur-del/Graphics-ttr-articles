@@ -121,4 +121,5 @@ When studying Tatar, you have likely encountered the problem of choosing plural 
 Pros: Way less endings to memorize
 Cons: Restudying needed
 
+If u want to practice Yaña imlä, here is prompt for u:![prompt](/prompt/)
 
