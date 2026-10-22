@@ -19,6 +19,14 @@ jobs:
           node-version: 22
 
       - run: npm install
+      
+      - name: Generate 7 placeholder pages
+        run: |
+          for i in {1..7}; do
+            echo "# Test Page $i" > docs/page$i.md
+            echo "This is a placeholder page for Instant View validation." >> docs/page$i.md
+          done
+         
       - run: npm run docs:build
       - uses: actions/upload-pages-artifact@v3
         with:
