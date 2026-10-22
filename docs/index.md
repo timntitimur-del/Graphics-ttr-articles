@@ -50,7 +50,7 @@ I’ll list the alphabet.
 |     ش     |        Ш        |   Ş   |
 |     ج     |        Җ        |   C   |
 
-$*$These letters are in the Bashkir Cyrillic alphabet, because the Bashkir language has sounds that show these letters in Arabic. $[ҫ]$ sounds like the English *th* in *think*, and $[ҙ]$ like the English *th* in *mother*.
+*These letters are in the Bashkir Cyrillic alphabet, because the Bashkir language has sounds that show these letters in Arabic. [ҫ] sounds like the English *th* in *think*, and [ҙ] like the English *th* in *mother*.
 
 I gave original texts by Ğayaz İsxaqıy to people who read and speak Arabic fluently, and they couldn't pronounce a single sound similar to a Tatar word. This was expected, according that in those days, the ability to read and especially write was the privilege of the highly educated and the wealthy. And actually, more likely as in Arabic and Persian languages, from childhood people was learning how to write and recognizing bases of the words to understand them in context. 
 Inscriptions in this script have been preserved on the streets of Kazan. The very first one that comes to mind is the inscription on the clock on Bauman Street:
@@ -86,7 +86,7 @@ Unlike İske imlä, Yaña one have a richer set of vowels.
 |    ئو    |   У, Ү   | U, Ü  | New     |
 |    ئە    |    Ә     |   Ä   |         |
 
-Like iske imlä, a special mark must be placed to indicate that a word begins with a vowel sound. Actually it caused by the perso-arabic rule that every word must start with consonant. "ا" as "consonant" present $[ʔ]$ [glottal stop](https://en.wikipedia.org/wiki/Glottal_stop) sound in iske imlä and early yaña imlä. The same did "ئ". In my opinion, the earlier version was slightly more convenient because "ئ" was written before soft vowels, indicating that, according to the law of vowel harmony, the entire word would be pronounced with a soft sounds, and "ا" was used before hard vowels, indicating the opposite. In the new writing system, you are asked to determine softness of sounds based on the vowels indicated by the preceding letters. The letters preceding the word help determine whether it is hard, indicated by ق, ع, or ا (i.e., Ğ, Q, or A), or soft, indicated by ك, گ, or ە (i.e., G, K, or Ä). Thereby, in the early version, "village" is written as "آول" and "he" as "اول", whereas in the new version: "village" is "ئاول" and "he" is "ئول".
+Like iske imlä, a special mark must be placed to indicate that a word begins with a vowel sound. Actually it caused by the perso-arabic rule that every word must start with consonant. "ا" as "consonant" present [ʔ] [glottal stop](https://en.wikipedia.org/wiki/Glottal_stop) sound in iske imlä and early yaña imlä. The same did "ئ". In my opinion, the earlier version was slightly more convenient because "ئ" was written before soft vowels, indicating that, according to the law of vowel harmony, the entire word would be pronounced with a soft sounds, and "ا" was used before hard vowels, indicating the opposite. In the new writing system, you are asked to determine softness of sounds based on the vowels indicated by the preceding letters. The letters preceding the word help determine whether it is hard, indicated by ق, ع, or ا (i.e., Ğ, Q, or A), or soft, indicated by ك, گ, or ە (i.e., G, K, or Ä). Thereby, in the early version, "village" is written as "آول" and "he" as "اول", whereas in the new version: "village" is "ئاول" and "he" is "ئول".
 ### Consonant graphemes 
 Unlike iske, yaña imlä got rid of all repeating "not necessary" consonants
 
